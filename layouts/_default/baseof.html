@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}"
+dir="{{ if eq .Site.Language.Lang "en" }}ltr{{ else }}rtl{{ end }}">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ .Title }} | {{ .Site.Title }}</title>
+    <link rel="stylesheet" href="/css/bavarkam.css">
+</head>
+
+
+<body>
+
+    {{ partial "nav.html" . }}
+
+    <main>
+        {{ block "main" . }}{{ end }}
+
+
+        <footer style="text-align:center; padding:20px; font-size:12px;">
+
+            {{ if eq .Lang "en" }}
+
+            © BavarKam Production Company  
+            Website Developed by RY
+
+            {{ else if eq .Lang "dr" }}
+
+            © شرکت تولیدی باورکام<br>
+               طراحی وبسایت توسط RY
+
+            {{ else if eq .Lang "ps" }}
+
+            © د باورکام تولیدي شرکت<br>
+           وېبسايټ جوړ شوی د RY لخوا
+
+            {{ end }}
+
+          </footer>
+        
+
+    </main>
+    <!-- ✅ JS must be here -->
+    <script src="/js/effects.js"></script>
+    
+</body>
+</html>

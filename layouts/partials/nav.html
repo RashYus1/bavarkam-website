@@ -1,0 +1,61 @@
+{{ $currentLang := .Site.Language.Lang }}
+
+<nav>
+    <div class="logo-area">
+        <img src="/images/logo.jpg" alt="BavarKam Logo">
+        <span class="company-name">
+            {{ if eq $currentLang "en" }}BavarKam Production Company{{ end }}
+            {{ if eq $currentLang "dr" }}شرکت تولیدی باورکام{{ end }}
+            {{ if eq $currentLang "ps" }}د باورکام تولیدي شرکت{{ end }}
+        </span>
+    </div>
+    
+    <div class="nav-links">
+        <a href="{{ "/" | relLangURL }}">
+            {{ if eq $currentLang "en" }}Home{{ end }}
+            {{ if eq $currentLang "dr" }}خانه{{ end }}
+            {{ if eq $currentLang "ps" }}کور{{ end }}
+        </a>
+
+        <a href="{{ "/products/" | relLangURL }}">
+            {{ if eq $currentLang "en" }}Products{{ end }}
+            {{ if eq $currentLang "dr" }}محصولات{{ end }}
+            {{ if eq $currentLang "ps" }}محصولات{{ end }}
+        </a>
+
+        <a href="{{ "/about/" | relLangURL }}">
+            {{ if eq $currentLang "en" }}About{{ end }}
+            {{ if eq $currentLang "dr" }}درباره ما{{ end }}
+            {{ if eq $currentLang "ps" }}زموږ په اړه{{ end }}
+        </a>
+
+        <a href="{{ "/contact/" | relLangURL }}">
+            {{ if eq $currentLang "en" }}Contact{{ end }}
+            {{ if eq $currentLang "dr" }}تماس{{ end }}
+            {{ if eq $currentLang "ps" }}اړیکه{{ end }}
+        </a>
+    </div>
+    
+    <div class="language-switcher">
+        {{ range .Translations }}
+            <a href="{{ .RelPermalink }}" class="{{ if eq $.Lang .Lang }}active{{ end }}">
+                {{ if eq .Lang "en" }}EN{{ end }}
+                {{ if eq .Lang "dr" }}دری{{ end }}
+                {{ if eq .Lang "ps" }}پښتو{{ end }}
+            </a>
+        {{ end }}
+
+        {{ if not .IsTranslated }}
+            {{ if ne .Lang "en" }}
+                <a href="{{ "/" | relLangURL }}">EN</a>
+            {{ end }}
+            {{ if ne .Lang "dr" }}
+                <a href="{{ "/dr/" }}">دری</a>
+            {{ end }}
+            {{ if ne .Lang "ps" }}
+                <a href="{{ "/ps/" }}">پښتو</a>
+            {{ end }}
+        {{ end }}
+     </div>
+
+</nav>

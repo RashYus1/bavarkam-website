@@ -1,0 +1,51 @@
+baseURL: "https://BavarKam.com/"
+title: "BavarKam"
+theme: "PaperMod"
+
+enableEmoji: true
+enableRobotsTXT: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+ignoreLogs: ['warning-goldmark-raw-html']
+
+params:
+  env: production
+  title: "BavarKam"
+  description: "Premium Personal Care Products Made in Afghanistan"
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10
+    - identifier: products
+      name: Products
+      url: /products/
+      weight: 20
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 30
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 40
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    contentDir: "content"
+  dr:
+    languageName: "دری"
+    weight: 2
+    contentDir: "content/dr"
+  ps:
+    languageName: "پښتو"
+    weight: 3
+    contentDir: "content/ps"

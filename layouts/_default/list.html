@@ -1,0 +1,18 @@
+{{ define "main" }}
+<h1 style="text-align:center; margin-bottom: 40px;">{{ .Title }}</h1>
+<div class="product-grid-3d">
+  {{ range .Pages }}
+    <div class="product-card-3d">
+        <a href="{{ .RelPermalink }}">
+            {{ with .Params.image }}
+                <img src="{{ . | relURL }}" alt="{{ $.Title }}">
+            {{ end }}
+            <h3>{{ .Title }}</h3>
+        </a>
+        {{ with .Params.description }}
+            <p>{{ . }}</p>
+        {{ end }}
+    </div>
+  {{ end }}
+</div>
+{{ end }}

@@ -1,0 +1,80 @@
+{{ define "main" }}
+
+
+<!-- 3D Hero Section with Background -->
+<div class="hero-3d">
+
+    <!-- Video Background -->
+    <video autoplay muted loop playsinline class="hero-video">
+        <source src="{{ "videos/hero.mp4" | relURL }}" type="video/mp4">
+    </video>
+
+    <!-- Dark Overlay -->
+    <div class="hero-overlay"></div>
+
+    <!-- Hero Content -->
+    <div class="hero-content">
+        <h1>{{ i18n "hero_title" }}</h1>
+        <p>{{ i18n "hero_subtitle" }}</p>
+
+        <a href="/products/" class="btn-3d">
+            {{ i18n "explore_products" }}
+        </a>
+    </div>
+
+</div>
+
+
+
+<h2 class="section-title">
+    {{ i18n "our_products" }}
+</h2>
+
+
+<div class="product-grid-3d">
+
+    <div class="product-card-3d">
+        <img src="{{ "images/products/toothpaste-1.png" | relURL }}" alt="Toothpaste">
+        <h3>Toothpaste</h3>
+    </div>
+
+    <div class="product-card-3d">
+        <img src="{{ "images/products/face-cream-1.png" | relURL }}" alt="Face Cream">
+        <h3>Face Cream</h3>
+    </div>
+
+    <div class="product-card-3d">
+        <img src="{{ "images/products/hand-cream-1.png" | relURL }}" alt="Hand Cream">
+        <h3>Hand Cream</h3>
+    </div>
+
+    <div class="product-card-3d">
+        <img src="{{ "images/products/mouth-wash-1.png" | relURL }}" alt="Mouth Wash">
+        <h3>Mouth Wash</h3>
+    </div>
+
+    <div class="product-card-3d">
+        <img src="{{ "images/products/face-wash-1.png" | relURL }}" alt="Face Wash">
+        <h3>Face Wash</h3>
+    </div>
+
+    <div class="product-card-3d">
+        <img src="{{ "images/products/toothbrush-1.png" | relURL }}" alt="Toothbrush">
+        <h3>Toothbrush</h3>
+    </div>
+
+
+    <div class="product-card-3d">
+        <img src="{{ "images/products/kids-toothpaste-1.png" | relURL }}" alt="Kids Toothpaste & Toothbrush">
+        <h3>Kids Toothpaste & Toothbrush</h3>
+    </div>  
+
+
+    <div class="product-card-3d">
+        <img src="{{ "images/products/tooth-floss-1.png" | relURL }}" alt="Tooth Floss">
+        <h3>Tooth Floss</h3>
+    </div>  
+
+</div>
+
+{{ end }}

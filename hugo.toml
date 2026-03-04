@@ -1,0 +1,26 @@
+baseURL = "http://localhost:1313/"
+title = "BavarKam"
+
+defaultContentLanguage = "en"
+
+[languages]
+
+[languages.en]
+languageName = "English"
+weight = 1
+contentDir = "content/en"
+languageCode = "en-us"
+
+[languages.dr]
+languageName = "دری"
+weight = 2
+contentDir = "content/dr"
+languageCode = "fa"
+direction = "rtl"
+
+[languages.ps]
+languageName = "پښتو"
+weight = 3
+contentDir = "content/ps"
+languageCode = "ps"
+direction = "rtl"
