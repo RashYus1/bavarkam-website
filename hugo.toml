@@ -1,7 +1,8 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://bavarkam.com/"
 title = "BavarKam"
 
 defaultContentLanguage = "en"
+publishDir = "docs"
 
 [languages]
 
