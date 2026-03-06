@@ -289,3 +289,38 @@ section, .contact-section, .content {
     margin-bottom: 60px;
     letter-spacing: 1px;
 }
+
+
+
+
+/* ===== PRODUCT PAGE ===== */
+
+.product-page {
+    max-width: 1200px;
+    margin: 80px auto;
+    padding: 0 40px;
+    color: white;
+}
+
+.product-description {
+    margin-bottom: 50px;
+    font-size: 18px;
+    line-height: 1.8;
+}
+
+.product-gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 25px;
+}
+
+.gallery-item img {
+    width: 100%;
+    border-radius: 20px;
+    transition: 0.4s ease;
+    cursor: pointer;
+}
+
+.gallery-item img:hover {
+    transform: scale(1.05);
+}

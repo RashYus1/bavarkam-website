@@ -2,281 +2,260 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/products/face-wash/deep-clean/</loc>
+    <loc>https://bavarkam.com/</loc>
     <lastmod>2026-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="http://localhost:1313/dr/products/face-wash/deep-clean/"
+                href="https://bavarkam.com/dr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ps"
-                href="http://localhost:1313/ps/products/face-wash/deep-clean/"
+                href="https://bavarkam.com/ps/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/products/face-wash/deep-clean/"
+                href="https://bavarkam.com/"
                 />
   </url><url>
-    <loc>http://localhost:1313/products/face-wash/</loc>
-    <lastmod>2026-02-28T00:00:00+00:00</lastmod>
+    <loc>https://bavarkam.com/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="http://localhost:1313/dr/products/face-wash/"
+                href="https://bavarkam.com/dr/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ps"
-                href="http://localhost:1313/ps/products/face-wash/"
+                href="https://bavarkam.com/ps/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/products/face-wash/"
+                href="https://bavarkam.com/about/"
                 />
   </url><url>
-    <loc>http://localhost:1313/products/face-wash/gentle/</loc>
-    <lastmod>2026-02-28T00:00:00+00:00</lastmod>
+    <loc>https://bavarkam.com/products/bavar-cad-cam/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="http://localhost:1313/dr/products/face-wash/gentle/"
+                href="https://bavarkam.com/dr/products/bavar-cad-cam/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ps"
-                href="http://localhost:1313/ps/products/face-wash/gentle/"
+                href="https://bavarkam.com/ps/products/bavar-cad-cam/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/products/face-wash/gentle/"
+                href="https://bavarkam.com/products/bavar-cad-cam/"
                 />
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-02-28T00:00:00+00:00</lastmod>
+    <loc>https://bavarkam.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="http://localhost:1313/dr/"
+                href="https://bavarkam.com/dr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ps"
-                href="http://localhost:1313/ps/"
+                href="https://bavarkam.com/ps/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/"
+                href="https://bavarkam.com/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/products/</loc>
-    <lastmod>2026-02-28T00:00:00+00:00</lastmod>
+    <loc>https://bavarkam.com/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="http://localhost:1313/dr/products/"
+                href="https://bavarkam.com/dr/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ps"
-                href="http://localhost:1313/ps/products/"
+                href="https://bavarkam.com/ps/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/products/"
+                href="https://bavarkam.com/contact/"
                 />
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://bavarkam.com/products/face-cream/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="http://localhost:1313/dr/about/"
+                href="https://bavarkam.com/dr/products/face-cream/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ps"
-                href="http://localhost:1313/ps/about/"
+                href="https://bavarkam.com/ps/products/face-cream/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/about/"
+                href="https://bavarkam.com/products/face-cream/"
                 />
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://bavarkam.com/products/face-wash/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="http://localhost:1313/dr/categories/"
+                href="https://bavarkam.com/dr/products/face-wash/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ps"
-                href="http://localhost:1313/ps/categories/"
+                href="https://bavarkam.com/ps/products/face-wash/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/categories/"
+                href="https://bavarkam.com/products/face-wash/"
                 />
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://bavarkam.com/products/hand-cream/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="http://localhost:1313/dr/contact/"
+                href="https://bavarkam.com/dr/products/hand-cream/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ps"
-                href="http://localhost:1313/ps/contact/"
+                href="https://bavarkam.com/ps/products/hand-cream/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/contact/"
+                href="https://bavarkam.com/products/hand-cream/"
                 />
   </url><url>
-    <loc>http://localhost:1313/products/face-cream/</loc>
+    <loc>https://bavarkam.com/products/kids-toothpaste-toothbrush/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="http://localhost:1313/dr/products/face-cream/"
+                href="https://bavarkam.com/dr/products/kids-toothpaste-toothbrush/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ps"
-                href="http://localhost:1313/ps/products/face-cream/"
+                href="https://bavarkam.com/ps/products/kids-toothpaste-toothbrush/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/products/face-cream/"
+                href="https://bavarkam.com/products/kids-toothpaste-toothbrush/"
                 />
   </url><url>
-    <loc>http://localhost:1313/products/hand-cream/</loc>
+    <loc>https://bavarkam.com/products/mouth-wash/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="http://localhost:1313/dr/products/hand-cream/"
+                href="https://bavarkam.com/dr/products/mouth-wash/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ps"
-                href="http://localhost:1313/ps/products/hand-cream/"
+                href="https://bavarkam.com/ps/products/mouth-wash/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/products/hand-cream/"
+                href="https://bavarkam.com/products/mouth-wash/"
                 />
   </url><url>
-    <loc>http://localhost:1313/products/kids-toothpaste-toothbrush/</loc>
+    <loc>https://bavarkam.com/products/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="http://localhost:1313/dr/products/kids-toothpaste-toothbrush/"
+                href="https://bavarkam.com/dr/products/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ps"
-                href="http://localhost:1313/ps/products/kids-toothpaste-toothbrush/"
+                href="https://bavarkam.com/ps/products/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/products/kids-toothpaste-toothbrush/"
+                href="https://bavarkam.com/products/"
                 />
   </url><url>
-    <loc>http://localhost:1313/products/mouth-wash/</loc>
+    <loc>https://bavarkam.com/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="http://localhost:1313/dr/products/mouth-wash/"
+                href="https://bavarkam.com/dr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ps"
-                href="http://localhost:1313/ps/products/mouth-wash/"
+                href="https://bavarkam.com/ps/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/products/mouth-wash/"
+                href="https://bavarkam.com/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://bavarkam.com/products/tooth-floss/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="http://localhost:1313/dr/tags/"
+                href="https://bavarkam.com/dr/products/tooth-floss/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ps"
-                href="http://localhost:1313/ps/tags/"
+                href="https://bavarkam.com/ps/products/tooth-floss/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/tags/"
+                href="https://bavarkam.com/products/tooth-floss/"
                 />
   </url><url>
-    <loc>http://localhost:1313/products/tooth-floss/</loc>
+    <loc>https://bavarkam.com/products/toothbrush/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="http://localhost:1313/dr/products/tooth-floss/"
+                href="https://bavarkam.com/dr/products/toothbrush/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ps"
-                href="http://localhost:1313/ps/products/tooth-floss/"
+                href="https://bavarkam.com/ps/products/toothbrush/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/products/tooth-floss/"
+                href="https://bavarkam.com/products/toothbrush/"
                 />
   </url><url>
-    <loc>http://localhost:1313/products/toothbrush/</loc>
+    <loc>https://bavarkam.com/products/toothpaste/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="http://localhost:1313/dr/products/toothbrush/"
+                href="https://bavarkam.com/dr/products/toothpaste/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ps"
-                href="http://localhost:1313/ps/products/toothbrush/"
+                href="https://bavarkam.com/ps/products/toothpaste/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/products/toothbrush/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/products/toothpaste/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="http://localhost:1313/dr/products/toothpaste/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ps"
-                href="http://localhost:1313/ps/products/toothpaste/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/products/toothpaste/"
+                href="https://bavarkam.com/products/toothpaste/"
                 />
   </url>
 </urlset>

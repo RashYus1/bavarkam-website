@@ -1,0 +1,23 @@
+{{ define "main" }}
+
+<section class="product-page">
+
+    <h1 class="section-title">{{ .Title }}</h1>
+
+    <div class="product-description">
+        {{ .Content }}
+    </div>
+
+    {{ if .Params.images }}
+    <div class="product-gallery">
+        {{ range .Params.images }}
+            <div class="gallery-item">
+                <img src="{{ . | relURL }}" alt="{{ $.Title }}">
+            </div>
+        {{ end }}
+    </div>
+    {{ end }}
+
+</section>
+
+{{ end }}

@@ -7,7 +7,9 @@ title: "Contact BavarKam "
 ## Get in Touch
 
 📍 Kabul Afghanistan  
-📞 +93 700xxxxxxxx  
+
+📞 +93-0744181885 
+
 📧 info@bavarkam.com
 
 </div>

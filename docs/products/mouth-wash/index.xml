@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mouth Wash on BavarKam</title>
-    <link>https://bavarkam.com/products/mouth-wash/</link>
+    <link>http://localhost:1313/products/mouth-wash/</link>
     <description>Recent content in Mouth Wash on BavarKam</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://bavarkam.com/products/mouth-wash/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/products/mouth-wash/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

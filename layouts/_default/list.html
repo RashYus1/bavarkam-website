@@ -1,18 +1,60 @@
 {{ define "main" }}
-<h1 style="text-align:center; margin-bottom: 40px;">{{ .Title }}</h1>
-<div class="product-grid-3d">
-  {{ range .Pages }}
+<div class="container">
+  <h1 style="text-align: center;">{{ .Title }}</h1>  <!-- 👈 ADD style="text-align: center;" -->
+  
+  <div class="product-grid-3d">
+    {{ range .Pages }}
     <div class="product-card-3d">
-        <a href="{{ .RelPermalink }}">
-            {{ with .Params.image }}
-                <img src="{{ . | relURL }}" alt="{{ $.Title }}">
-            {{ end }}
-            <h3>{{ .Title }}</h3>
-        </a>
-        {{ with .Params.description }}
-            <p>{{ . }}</p>
+      <a href="{{ .RelPermalink }}">
+        {{ $image := .Params.image }}
+        {{ if $image }}
+        <img src="{{ $image }}" alt="{{ .Title }}">
+        {{ else }}
+        <img src="/images/placeholder.png" alt="{{ .Title }}">
         {{ end }}
+        <h3>{{ .Title }}</h3>
+        <p>{{ .Description }}</p>
+      </a>
     </div>
-  {{ end }}
+    {{ end }}
+  </div>
 </div>
+
+<style>
+.product-grid-3d {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 30px;
+  margin: 40px auto;
+  max-width: 1200px;
+}
+.product-card-3d {
+  perspective: 1000px;
+  transition: transform 0.2s;
+  text-align: center;
+}
+.product-card-3d a {
+  text-decoration: none;
+  color: inherit;
+}
+.product-card-3d img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  border-radius: 15px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+.product-card-3d:hover img {
+  transform: rotateY(15deg) rotateX(10deg) scale(1.05);
+  box-shadow: 0 20px 35px rgba(0,0,0,0.3);
+}
+.product-card-3d h3 {
+  margin: 10px 0 5px;
+}
+.product-card-3d p {
+  color: #666;
+  font-size: 0.9rem;
+}
+</style>
 {{ end }}

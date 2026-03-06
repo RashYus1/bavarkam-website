@@ -2,7 +2,7 @@ baseURL = "https://bavarkam.com/"
 title = "BavarKam"
 
 defaultContentLanguage = "en"
-publishDir = "docs"
+publishDir = "public"
 
 [languages]
 
