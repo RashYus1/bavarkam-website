@@ -141,23 +141,6 @@
                 href="http://localhost:1313/dr/contact/"
                 />
   </url><url>
-    <loc>http://localhost:1313/dr/products/kids-toothpaste-toothbrush/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/products/kids-toothpaste-toothbrush/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ps"
-                href="http://localhost:1313/ps/products/kids-toothpaste-toothbrush/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="http://localhost:1313/dr/products/kids-toothpaste-toothbrush/"
-                />
-  </url><url>
     <loc>http://localhost:1313/dr/products/mouth-wash/</loc>
     <xhtml:link
                 rel="alternate"
@@ -241,6 +224,23 @@
                 rel="alternate"
                 hreflang="fa"
                 href="http://localhost:1313/dr/products/face-cream/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/dr/products/kids-toothpaste-toothbrush/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/products/kids-toothpaste-toothbrush/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ps"
+                href="http://localhost:1313/ps/products/kids-toothpaste-toothbrush/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="http://localhost:1313/dr/products/kids-toothpaste-toothbrush/"
                 />
   </url><url>
     <loc>http://localhost:1313/dr/products/tooth-floss/</loc>

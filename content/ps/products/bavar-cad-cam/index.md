@@ -1,5 +1,5 @@
 ---
-title: "باور کد کم CAD/CAM"
+title: "د باور کدکم لابراتوار CAD/CAM Lab"
 description: "د باورکم کد کم پرمختللې ډیجیټل غاښ جوړولو ټکنالوژي"
 image: "/images/products/cad-cam-8.png"
 video: "/videos/cad-cam.mp4"
@@ -18,7 +18,7 @@ images:
   - "/images/products/cad-cam-12.png"
 ---
 
-## باور کد کم CAD/CAM
+## باور کد کم CAD/CAM Lab
 
 یو پرمختللی ډیجیټل سیستم د دقیق غاښ جوړولو لپاره.
 

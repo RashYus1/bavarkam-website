@@ -1,5 +1,5 @@
 ---
-title: "برس دندان و یا مسواک"
+title: "برس دندان"
 description: "برس دندان ممتاز برای تمیز کردن ملایم و مؤثر"
 image: "/images/products/toothbrush-1.png"
 images:

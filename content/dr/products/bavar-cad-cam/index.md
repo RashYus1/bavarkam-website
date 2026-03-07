@@ -1,5 +1,5 @@
 ---
-title: "باور کد کم CAD/CAM"
+title: "باور کدکم لابراتوار CAD/CAM Lab"
 description: "تکنالوژی پیشرفته دندانسازی دیجیتال باورکم"
 image: "/images/products/cad-cam-6.png"
 video: "/videos/cad-cam.mp4"
@@ -18,7 +18,7 @@ images:
   - "/images/products/cad-cam-12.png"
 ---
 
-## باور کد کم CAD/CAM
+## باور کدکم لابراتوار CAD/CAM
 
 سیستم دیجیتال پیشرفته برای طراحی و تولید دقیق پروتزهای دندانی.
 
