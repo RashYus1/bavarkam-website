@@ -20,7 +20,7 @@ images:
 
 ## Bavar CAD/CAM
 
-Bavar CAD/CAM is a modern digital dental solution designed for precision, durability, and advanced laboratory performance.
+BavarKam CAD/CAM is a modern digital dental solution designed for precision, durability, and advanced laboratory performance.
 
 ### Features
 

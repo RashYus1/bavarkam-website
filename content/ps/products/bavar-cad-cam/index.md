@@ -1,6 +1,6 @@
 ---
 title: "باور کد کم CAD/CAM"
-description: "د باورکم پرمختللې ډیجیټل غاښ جوړولو ټکنالوژي"
+description: "د باورکم کد کم پرمختللې ډیجیټل غاښ جوړولو ټکنالوژي"
 image: "/images/products/cad-cam-8.png"
 video: "/videos/cad-cam.mp4"
 images:

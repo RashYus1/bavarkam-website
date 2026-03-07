@@ -13,8 +13,8 @@ draft: false
 
 <div class="product-grid-3d">
   <div class="product-card-3d">
-    <img src="/images/products/toothpaste-1.png" alt="د غاښونو کریم">
-    <h3>د غاښونو کریم</h3>
+    <img src="/images/products/toothpaste-1.png" alt="د غاښو کریم">
+    <h3>د غاښو کریم</h3>
   </div>
   <div class="product-card-3d">
     <img src="/images/products/face-cream-1.png" alt="د مخ کریم">
@@ -33,16 +33,17 @@ draft: false
     <h3>د مخ وینځل</h3>
   </div>
   <div class="product-card-3d">
-    <img src="/images/products/toothbrush-1.png" alt="برش">
-    <h3>برش</h3>
+    <img src="/images/products/toothbrush-1.png" alt="د غاښو برس">
+    <h3>د غاښو برس</h3>
   </div>
 </div>
 
   <div class="product-card-3d">
-    <img src="/images/products/kids-toothpaste-1.png" alt="د ماشومانو کریم">
-    <h3>د ماشومانو کریم او برش</h3>
-  </div>
+    <img src="/images/products/kids-toothpaste-1.png" alt="د ماشومانو د غاښو کریم او برس">
+    <h3>د ماشومانو د غاښو کریم او برس</h3>
 
+  </div>
+  
   <div class="product-card-3d">
     <img src="/images/products/tooth-floss-3.png" alt="د غاښ تار">
     <h3>د غاښ تار</h3>

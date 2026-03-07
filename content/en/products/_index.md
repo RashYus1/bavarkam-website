@@ -1,7 +1,9 @@
 ---
 title: "Our Products"
+date: 2026-03-06
 draft: false
 ---
 
-# Our Products
-Browse our range of premium personal care products.
+## Browse Our Complete Range
+
+Discover all BavarKam premium products made in Afghanistan.

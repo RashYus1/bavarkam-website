@@ -13,16 +13,16 @@ draft: false
 
 <div class="product-grid-3d">
   <div class="product-card-3d">
-    <img src="/images/products/toothpaste-1.png" alt="خمیردندان">
-    <h3>خمیردندان</h3>
+    <img src="/images/products/toothpaste-1.png" alt="کریم دندان یا خمیر دندان">
+    <h3>کریم دندان یا خمیر دندان"</h3>
   </div>
   <div class="product-card-3d">
-    <img src="/images/products/face-cream-1.png" alt="کرم صورت">
-    <h3>کرم صورت</h3>
+    <img src="/images/products/face-cream-1.png" alt="کریم صورت">
+    <h3>کریم صورت</h3>
   </div>
   <div class="product-card-3d">
-    <img src="/images/products/hand-cream-1.png" alt="کرم دست">
-    <h3>کرم دست</h3>
+    <img src="/images/products/hand-cream-1.png" alt="کریم دست">
+    <h3>کریم دست</h3>
   </div>
   <div class="product-card-3d">
     <img src="/images/products/mouth-wash-1.png" alt="دهان‌شویه">
@@ -33,14 +33,14 @@ draft: false
     <h3>شوینده صورت</h3>
   </div>
   <div class="product-card-3d">
-    <img src="/images/products/toothbrush-1.png" alt="مسواک">
-    <h3>مسواک</h3>
+    <img src="/images/products/toothbrush-1.png" alt="برس دندان یا مسواک">
+    <h3>برس دندان و یا مسواک</h3>
   </div>
 </div>
 
   <div class="product-card-3d">
-    <img src="/images/products/kids-toothpaste-1.png" alt="محصولات اطفال">
-    <h3>خمیر دندان و برس اطفال</h3>
+    <img src="/images/products/kids-toothpaste-1.png" alt="کریم دندان و برس دندان اطفال">
+    <h3>کریم دندان و برس دندان اطفال</h3>
   </div>
 
   <div class="product-card-3d">
