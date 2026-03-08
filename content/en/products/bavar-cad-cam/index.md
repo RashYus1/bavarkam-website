@@ -1,6 +1,6 @@
 ---
-title: "Bavar CAD/CAM"
-description: "Advanced CAD/CAM dental technology by BavarKam"
+title: "Bavar CAD/CAM Lab"
+description: "Advanced CAD/CAM Lab dental technology by BavarKam"
 image: "/images/products/cad-cam-7.png"
 video: "/videos/cad-cam.mp4"
 images:
@@ -18,9 +18,9 @@ images:
   - "/images/products/cad-cam-12.png"
 ---
 
-## Bavar CAD/CAM
+## Bavar CAD/CAM Lab
 
-BavarKam CAD/CAM is a modern digital dental solution designed for precision, durability, and advanced laboratory performance.
+BavarKam CAD/CAM Lab is a modern digital dental solution designed for precision, durability, and advanced laboratory performance.
 
 ### Features
 

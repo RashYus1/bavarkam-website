@@ -1,6 +1,6 @@
 ---
 title: "شوینده روی"
-description: "شوینده عمیق صورت برای پوست تازه و سالم"
+description: "شوینده عمیق روی برای پوست تازه و سالم"
 image: "/images/products/face-wash-1.png"
 images:
   - "/images/products/face-wash-1.png"
