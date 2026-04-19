@@ -8,7 +8,7 @@ images:
   - "/images/products/face-cream-3.png"
 ---
 
-## Premium Face Cream by BavarKam
+## Premium Face Cream by Face Dent
 
 Our face cream is specially formulated to nourish and protect your skin. Made with natural ingredients suitable for all skin types.
 

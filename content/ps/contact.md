@@ -1,5 +1,5 @@
 ---
-title: "اړیکه له باورکام سره"
+title: "اړیکه له فیس دینت سره"
 ---
 
 <div dir="rtl" class="info-card">
@@ -10,7 +10,7 @@ title: "اړیکه له باورکام سره"
 
 📞 ۹۳-۰۷۴۴۱۸۱۸۸۵+ 
 
-📧 info@bavarkam.com
+📧 info@facedents.com
 
 </div>
 

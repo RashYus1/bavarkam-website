@@ -9,7 +9,7 @@ images:
   - "/images/products/face-wash-4.png"
 ---
 
-## BavarKam Face Wash
+## Face Dent Face Wash
 
 Experience the perfect start to your day with our refreshing face wash. Gently cleanses while maintaining your skin's natural moisture balance.
 

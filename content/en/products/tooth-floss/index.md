@@ -8,7 +8,7 @@ images:
   - "/images/products/tooth-floss-3.png"
 ---
 
-## BavarKam Dental Floss
+## Face Dent Dental Floss
 
 Reach where your toothbrush can't with our high-quality dental floss. Essential for complete oral hygiene.
 

@@ -7,7 +7,7 @@ draft: false
 <!-- 3D Hero Section -->
 <div class="hero-3d hero-bg">
   <div class="hero-content-3d">
-    <h1>BavarKam Production Company</h1>
+    <h1>Face Dent Production Company</h1>
     <p>Premium Products Made in Afghanistan</p>
     <a href="/products/" class="btn-3d">Explore Products</a>
   </div>

@@ -9,7 +9,7 @@ images:
   - "/images/products/toothpaste-4.png"
 ---
 
-## BavarKam Toothpaste
+## Face Dent Toothpaste
 
 Start your day with our fluoride toothpaste that provides complete protection against cavities, plaque, and bad breath.
 

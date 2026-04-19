@@ -1,5 +1,5 @@
 ---
-title: "Contact BavarKam "
+title: "Contact Face Dent "
 ---
 
 <div class="info-card">
@@ -10,7 +10,7 @@ title: "Contact BavarKam "
 
 📞 +93-0744181885 
 
-📧 info@bavarkam.com
+📧 info@facedents.com
 
 </div>
 

@@ -1,5 +1,5 @@
 ---
-title: "تماس با باورکام"
+title: "تماس با فیس دینت"
 ---
 
 <div dir="rtl" class="info-card">
@@ -10,7 +10,7 @@ title: "تماس با باورکام"
 
 📞 ۹۳-۰۷۴۴۱۸۱۸۸۵+ 
 
-📧 info@bavarkam.com
+📧 info@facedents.com
 
 </div>
 

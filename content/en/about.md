@@ -1,12 +1,12 @@
 ---
-title: "About BavarKam"
+title: "About Face Dent"
 ---
 
 <img src="/images/logo.jpg" style="width:200px; margin-bottom:30px; border-radius:10px;">
 
 ## Our Story
 
-BavarKam was founded to produce high-quality personal care products
+Face Dent was founded to produce high-quality personal care products
 for the people of Afghanistan using modern technology and safe materials.
 
 

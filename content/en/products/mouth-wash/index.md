@@ -8,7 +8,7 @@ images:
   - "/images/products/mouth-wash-3.png"
 ---
 
-## BavarKam Mouth Wash
+## Face Dent Mouth Wash
 
 Complete your oral care routine with our refreshing mouth wash. Fights bacteria, freshens breath, and promotes gum health.
 

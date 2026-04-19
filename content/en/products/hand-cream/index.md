@@ -7,7 +7,7 @@ images:
   - "/images/products/hand-cream-2.png"
 ---
 
-## BavarKam Hand Cream
+## Face Dent Hand Cream
 
 Keep your hands soft, smooth, and protected with our nourishing hand cream. Perfect for daily use, especially in dry conditions.
 

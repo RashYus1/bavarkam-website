@@ -10,7 +10,7 @@ images:
   - "/images/products/toothbrush-5.png"
 ---
 
-## BavarKam Toothbrush
+## Face Dent Toothbrush
 
 Experience superior cleaning with our ergonomically designed toothbrush. Perfect for daily oral care.
 

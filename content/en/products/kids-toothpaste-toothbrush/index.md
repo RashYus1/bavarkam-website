@@ -11,7 +11,7 @@ images:
   - "/images/products/kids-toothpaste-6.png"
 ---
 
-## BavarKam Kids Dental Care
+## Face Dent Kids Dental Care
 
 Make brushing fun with our specially designed toothpaste and toothbrush set for children. Safe, effective, and enjoyable for little ones.
 
