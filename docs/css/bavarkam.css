@@ -1,0 +1,326 @@
+/* ===================================
+   BavarKam ULTRA PREMIUM 2026 DESIGN
+   =================================== */
+
+/* ===== Ultra Animated Background ===== */
+body {
+    font-family: 'Segoe UI', sans-serif;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    color: #222;
+    background: linear-gradient(-45deg, #001f3f, #004080, #0066cc, #0099ff);
+    background-size: 400% 400%;
+    animation: gradientBG 12s ease infinite;
+}
+
+@keyframes gradientBG {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+
+/* ===== ULTRA STAR FIELD BACKGROUND ===== */
+body::before {
+    content: "";
+    position: fixed;
+    width: 400%;
+    height: 400%;
+    top: -150%;
+    left: -150%;
+    background-image:
+        radial-gradient(white 2px, transparent 2px),
+        radial-gradient(white 3px, transparent 3px),
+        radial-gradient(white 1.5px, transparent 1.5px),
+        radial-gradient(white 2.5px, transparent 2.5px);
+    background-size: 
+        120px 120px,
+        200px 200px,
+        160px 160px,
+        250px 250px;
+    animation: starsMove 30s linear infinite;
+    opacity: 0.8;
+    pointer-events: none;
+    z-index: 0;
+}
+
+@keyframes starsMove {
+    from { transform: translateY(0); }
+    to { transform: translateY(-1000px); }
+}
+
+/* ===== Glass Navbar ===== */
+nav {
+    backdrop-filter: blur(20px);
+    background: rgba(0,0,0,0.55);
+    padding: 15px 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.logo-area {
+    display: flex;
+    align-items: center;
+}
+
+.logo-area img {
+    height: 75px;
+    border-radius: 15px;
+    margin-right: 30px;
+}
+
+html[dir="rtl"] .logo-area img {
+    margin-right: 0;
+    margin-left: 30px;
+}
+
+.company-name {
+    font-size: 26px;
+    font-weight: 600;
+}
+
+/* ===== Nav Hover Glow ===== */
+.nav-links a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: 500;
+    transition: 0.3s;
+}
+
+.nav-links a:hover {
+    color: #00c3ff;
+    text-shadow: 0 0 10px #00c3ff;
+}
+
+.language-switcher a {
+    margin: 0 8px;
+    color: white;
+    text-decoration: none;
+}
+
+.language-switcher a.active {
+    color: #00c3ff;
+}
+
+/* ===== HERO VIDEO SECTION ===== */
+.hero-3d {
+    position: relative;
+    height: 70vh; /* smaller video height */
+    border-radius: 30px;
+    overflow: hidden;
+    margin: 10px auto;
+    max-width: 1200px;
+    display: flex;
+    align-items: flex-start;  /* move text higher */
+    justify-content: center;
+    padding-top: 60px;
+}
+
+.hero-3d video,
+.hero-video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: 1;
+}
+
+.hero-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.1); /* very light overlay */
+    z-index: 2;
+}
+
+.hero-content {
+    position: relative;
+    z-index: 3;
+    text-align: center;
+    color: white;
+    padding: 10px;
+    background: transparent; /* show full video */
+}
+
+.hero-content h1 {
+    font-size: 36px; /* smaller title */
+    font-weight: 600;
+    margin-bottom: 10px;
+    text-shadow: 0 0 15px rgba(0,0,0,0.6);
+}
+
+.hero-content p {
+    font-size: 20px;
+    text-shadow: 0 0 15px rgba(0,0,0,0.6);
+}
+
+/* ===== Ultra Product Cards with Mouse 3D ===== */
+.product-grid-3d {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 50px;
+    max-width: 1400px;
+    margin: 100px auto;
+    padding: 0 40px;
+}
+
+.product-card-3d {
+    background: rgba(255,255,255,0.95);
+    border-radius: 30px;
+    overflow: hidden;
+    box-shadow: 0 25px 50px rgba(0,0,0,0.25);
+    transition: transform 0.3s ease;
+    transform-style: preserve-3d;
+    text-align: center;
+}
+
+.product-card-3d img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    display: block;
+    margin: auto;
+    transition: 0.4s;
+}
+
+.product-card-3d:hover img {
+    transform: scale(1.1);
+}
+
+.product-card-3d h3 {
+    padding: 20px 15px 30px;
+    font-size: 22px;
+    text-align: center;
+}
+
+.product-card-3d p {
+    text-align: center;
+}
+
+/* ===== Scroll Reveal Animation ===== */
+.reveal {
+    opacity: 0;
+    transform: translateY(60px);
+    transition: 1s ease;
+}
+
+.reveal.active {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+/* ===== Animated Counter Section ===== */
+.stats-section {
+    padding: 100px 20px;
+    text-align: center;
+    color: white;
+}
+
+.counter {
+    font-size: 60px;
+    font-weight: bold;
+}
+
+/* ===== Footer ===== */
+footer {
+    padding: 40px;
+    text-align: center;
+    color: white;
+    background: rgba(0,0,0,0.5);
+}
+
+/* ===== RTL Support ===== */
+html[dir="rtl"] {
+    direction: rtl;
+    text-align: right;
+}
+
+/* ===== Fix Content Margin ===== */
+main {
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+html[dir="rtl"] main {
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+/* Contact section spacing */
+section, .contact-section, .content {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+/* Mobile fix */
+@media (max-width:768px){
+    main {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .hero-3d {
+        height: 45vh;
+        padding-top: 30px;
+    }
+    .hero-content h1 {
+        font-size: 24px;
+    }
+    .hero-content p {
+        font-size: 14px;
+    }
+}
+
+/* ===== Section Title ===== */
+.section-title {
+    text-align: center;
+    font-size: 42px;
+    color: white;
+    margin-top: 100px;
+    margin-bottom: 60px;
+    letter-spacing: 1px;
+}
+
+
+
+
+/* ===== PRODUCT PAGE ===== */
+
+.product-page {
+    max-width: 1200px;
+    margin: 80px auto;
+    padding: 0 40px;
+    color: white;
+}
+
+.product-description {
+    margin-bottom: 50px;
+    font-size: 18px;
+    line-height: 1.8;
+}
+
+.product-gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 25px;
+}
+
+.gallery-item img {
+    width: 100%;
+    border-radius: 20px;
+    transition: 0.4s ease;
+    cursor: pointer;
+}
+
+.gallery-item img:hover {
+    transform: scale(1.05);
+}
