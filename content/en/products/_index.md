@@ -6,4 +6,4 @@ draft: false
 
 ## Browse Our Complete Range
 
-Discover all BavarKam premium products made in Afghanistan.
+Discover all Face Dent premium products made in Afghanistan.

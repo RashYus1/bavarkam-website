@@ -1,89 +1,89 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on BavarKam</title>
-    <link>https://facedents.com/</link>
-    <description>Recent content in Home on BavarKam</description>
+    <title>Home on Face Dent</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on Face Dent</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://facedents.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Face Dent</title>
-      <link>https://facedents.com/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://facedents.com/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h2 id=&#34;our-story&#34;&gt;Our Story&lt;/h2&gt;&#xA;&lt;p&gt;Face Dent was founded to produce high-quality personal care products&#xA;for the people of Afghanistan using modern technology and safe materials.&lt;/p&gt;&#xA;&lt;h2 id=&#34;our-values&#34;&gt;Our Values&lt;/h2&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h2 id=&#34;our-facility&#34;&gt;Our Facility&lt;/h2&gt;&#xA;&lt;p&gt;Our factory follows international hygiene standards&#xA;and uses modern equipment.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bavar CAD/CAM Lab</title>
-      <link>https://facedents.com/products/bavar-cad-cam/</link>
+      <link>http://localhost:1313/products/bavar-cad-cam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://facedents.com/products/bavar-cad-cam/</guid>
-      <description>&lt;h2 id=&#34;bavar-cadcam-lab&#34;&gt;Bavar CAD/CAM Lab&lt;/h2&gt;&#xA;&lt;p&gt;BavarKam CAD/CAM Lab is a modern digital dental solution designed for precision, durability, and advanced laboratory performance.&lt;/p&gt;&#xA;&lt;h3 id=&#34;features&#34;&gt;Features&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;High precision digital design&lt;/li&gt;&#xA;&lt;li&gt;Advanced 3D milling technology&lt;/li&gt;&#xA;&lt;li&gt;Durable and aesthetic results&lt;/li&gt;&#xA;&lt;li&gt;Suitable for modern dental clinics and labs&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;applications&#34;&gt;Applications&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Crowns&lt;/li&gt;&#xA;&lt;li&gt;Bridges&lt;/li&gt;&#xA;&lt;li&gt;Veneers&lt;/li&gt;&#xA;&lt;li&gt;Digital prosthetics&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;BavarKam delivers premium quality made in Afghanistan.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/products/bavar-cad-cam/</guid>
+      <description>&lt;h2 id=&#34;bavar-cadcam-lab&#34;&gt;Bavar CAD/CAM Lab&lt;/h2&gt;&#xA;&lt;p&gt;Face Dent CAD/CAM Lab is a modern digital dental solution designed for precision, durability, and advanced laboratory performance.&lt;/p&gt;&#xA;&lt;h3 id=&#34;features&#34;&gt;Features&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;High precision digital design&lt;/li&gt;&#xA;&lt;li&gt;Advanced 3D milling technology&lt;/li&gt;&#xA;&lt;li&gt;Durable and aesthetic results&lt;/li&gt;&#xA;&lt;li&gt;Suitable for modern dental clinics and labs&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;applications&#34;&gt;Applications&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Crowns&lt;/li&gt;&#xA;&lt;li&gt;Bridges&lt;/li&gt;&#xA;&lt;li&gt;Veneers&lt;/li&gt;&#xA;&lt;li&gt;Digital prosthetics&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Face Dent delivers premium quality made in Afghanistan.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact Face Dent </title>
-      <link>https://facedents.com/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://facedents.com/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h2 id=&#34;get-in-touch&#34;&gt;Get in Touch&lt;/h2&gt;&#xA;&lt;p&gt;📍 Kabul Afghanistan&lt;/p&gt;&#xA;&lt;p&gt;📞 +93-0744181885&lt;/p&gt;&#xA;&lt;p&gt;📧 &lt;a href=&#34;mailto:info@facedents.com&#34;&gt;info@facedents.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h2 id=&#34;send-message&#34;&gt;Send Message&lt;/h2&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     <item>
       <title>Face Cream</title>
-      <link>https://facedents.com/products/face-cream/</link>
+      <link>http://localhost:1313/products/face-cream/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://facedents.com/products/face-cream/</guid>
+      <guid>http://localhost:1313/products/face-cream/</guid>
       <description>&lt;h2 id=&#34;premium-face-cream-by-face-dent&#34;&gt;Premium Face Cream by Face Dent&lt;/h2&gt;&#xA;&lt;p&gt;Our face cream is specially formulated to nourish and protect your skin. Made with natural ingredients suitable for all skin types.&lt;/p&gt;&#xA;&lt;h3 id=&#34;key-benefits&#34;&gt;Key Benefits&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Deep hydration for 24 hours&lt;/li&gt;&#xA;&lt;li&gt;Natural ingredients&lt;/li&gt;&#xA;&lt;li&gt;Suitable for sensitive skin&lt;/li&gt;&#xA;&lt;li&gt;Non-greasy formula&lt;/li&gt;&#xA;&lt;li&gt;Dermatologically tested&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;how-to-use&#34;&gt;How to Use&lt;/h3&gt;&#xA;&lt;p&gt;Apply a small amount to clean face and neck. Gently massage in circular motions until fully absorbed. Use twice daily for best results.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Face Wash</title>
-      <link>https://facedents.com/products/face-wash/</link>
+      <link>http://localhost:1313/products/face-wash/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://facedents.com/products/face-wash/</guid>
+      <guid>http://localhost:1313/products/face-wash/</guid>
       <description>&lt;h2 id=&#34;face-dent-face-wash&#34;&gt;Face Dent Face Wash&lt;/h2&gt;&#xA;&lt;p&gt;Experience the perfect start to your day with our refreshing face wash. Gently cleanses while maintaining your skin&amp;rsquo;s natural moisture balance.&lt;/p&gt;&#xA;&lt;h3 id=&#34;key-benefits&#34;&gt;Key Benefits&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Deep pore cleansing&lt;/li&gt;&#xA;&lt;li&gt;Removes impurities and excess oil&lt;/li&gt;&#xA;&lt;li&gt;Maintains skin pH balance&lt;/li&gt;&#xA;&lt;li&gt;Refreshing and cooling effect&lt;/li&gt;&#xA;&lt;li&gt;Suitable for daily use&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;how-to-use&#34;&gt;How to Use&lt;/h3&gt;&#xA;&lt;p&gt;Wet face with lukewarm water. Apply small amount and massage gently. Rinse thoroughly and pat dry. Use morning and evening.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hand Cream</title>
-      <link>https://facedents.com/products/hand-cream/</link>
+      <link>http://localhost:1313/products/hand-cream/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://facedents.com/products/hand-cream/</guid>
+      <guid>http://localhost:1313/products/hand-cream/</guid>
       <description>&lt;h2 id=&#34;face-dent-hand-cream&#34;&gt;Face Dent Hand Cream&lt;/h2&gt;&#xA;&lt;p&gt;Keep your hands soft, smooth, and protected with our nourishing hand cream. Perfect for daily use, especially in dry conditions.&lt;/p&gt;&#xA;&lt;h3 id=&#34;key-benefits&#34;&gt;Key Benefits&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Intensive moisture&lt;/li&gt;&#xA;&lt;li&gt;Quick absorption&lt;/li&gt;&#xA;&lt;li&gt;Non-greasy formula&lt;/li&gt;&#xA;&lt;li&gt;Protects from dryness&lt;/li&gt;&#xA;&lt;li&gt;Long-lasting softness&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;how-to-use&#34;&gt;How to Use&lt;/h3&gt;&#xA;&lt;p&gt;Apply small amount to hands and massage until fully absorbed. Reapply as needed, especially after washing hands.&lt;/p&gt;&#xA;&lt;h3 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h3&gt;&#xA;&lt;p&gt;Aqua, Glycerin, Shea Butter, Almond Oil, Vitamin E, Panthenol, Allantoin, Natural Fragrance&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kids Toothpaste &amp; Toothbrush</title>
-      <link>https://facedents.com/products/kids-toothpaste-toothbrush/</link>
+      <link>http://localhost:1313/products/kids-toothpaste-toothbrush/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://facedents.com/products/kids-toothpaste-toothbrush/</guid>
+      <guid>http://localhost:1313/products/kids-toothpaste-toothbrush/</guid>
       <description>&lt;h2 id=&#34;face-dent-kids-dental-care&#34;&gt;Face Dent Kids Dental Care&lt;/h2&gt;&#xA;&lt;p&gt;Make brushing fun with our specially designed toothpaste and toothbrush set for children. Safe, effective, and enjoyable for little ones.&lt;/p&gt;&#xA;&lt;h3 id=&#34;features&#34;&gt;Features&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Toothpaste&lt;/strong&gt;: Safe if swallowed, fluoride-free formula&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Toothbrush&lt;/strong&gt;: Soft bristles, small head for little mouths&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Fun designs&lt;/strong&gt;: Colorful and attractive for kids&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Gentle cleaning&lt;/strong&gt;: Protects developing teeth&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Great taste&lt;/strong&gt;: Kid-friendly flavors&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;why-choose-our-kids-products&#34;&gt;Why Choose Our Kids Products&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Pediatrician recommended&lt;/li&gt;&#xA;&lt;li&gt;Free from harsh chemicals&lt;/li&gt;&#xA;&lt;li&gt;Develops healthy brushing habits&lt;/li&gt;&#xA;&lt;li&gt;Fun and engaging for children&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;ingredients-toothpaste&#34;&gt;Ingredients (Toothpaste)&lt;/h3&gt;&#xA;&lt;p&gt;Sorbitol, Aqua, Hydrated Silica, Xylitol, Glycerin, Natural Flavor, Xanthan Gum&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mouth Wash</title>
-      <link>https://facedents.com/products/mouth-wash/</link>
+      <link>http://localhost:1313/products/mouth-wash/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://facedents.com/products/mouth-wash/</guid>
+      <guid>http://localhost:1313/products/mouth-wash/</guid>
       <description>&lt;h2 id=&#34;face-dent-mouth-wash&#34;&gt;Face Dent Mouth Wash&lt;/h2&gt;&#xA;&lt;p&gt;Complete your oral care routine with our refreshing mouth wash. Fights bacteria, freshens breath, and promotes gum health.&lt;/p&gt;&#xA;&lt;h3 id=&#34;key-benefits&#34;&gt;Key Benefits&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Kills 99.9% of bacteria&lt;/li&gt;&#xA;&lt;li&gt;Long-lasting fresh breath&lt;/li&gt;&#xA;&lt;li&gt;Strengthens enamel&lt;/li&gt;&#xA;&lt;li&gt;Reduces plaque&lt;/li&gt;&#xA;&lt;li&gt;Soothes gums&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;how-to-use&#34;&gt;How to Use&lt;/h3&gt;&#xA;&lt;p&gt;Use twice daily after brushing. Pour 20ml (4 teaspoons) into cup. Rinse for 30 seconds and spit out. Do not swallow.&lt;/p&gt;&#xA;&lt;h3 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h3&gt;&#xA;&lt;p&gt;Aqua, Alcohol, Glycerin, Sorbitol, Menthol, Eucalyptol, Thymol, Methyl Salicylate, Benzoic Acid&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tooth Floss</title>
-      <link>https://facedents.com/products/tooth-floss/</link>
+      <link>http://localhost:1313/products/tooth-floss/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://facedents.com/products/tooth-floss/</guid>
+      <guid>http://localhost:1313/products/tooth-floss/</guid>
       <description>&lt;h2 id=&#34;face-dent-dental-floss&#34;&gt;Face Dent Dental Floss&lt;/h2&gt;&#xA;&lt;p&gt;Reach where your toothbrush can&amp;rsquo;t with our high-quality dental floss. Essential for complete oral hygiene.&lt;/p&gt;&#xA;&lt;h3 id=&#34;key-benefits&#34;&gt;Key Benefits&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Removes plaque between teeth&lt;/li&gt;&#xA;&lt;li&gt;Prevents gum disease&lt;/li&gt;&#xA;&lt;li&gt;Fresh mint flavor&lt;/li&gt;&#xA;&lt;li&gt;Glides easily between teeth&lt;/li&gt;&#xA;&lt;li&gt;Strong and shred-resistant&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;how-to-use&#34;&gt;How to Use&lt;/h3&gt;&#xA;&lt;p&gt;Use 18 inches of floss. Wind around fingers and gently slide between teeth. Curve against tooth and scrape plaque away.&lt;/p&gt;&#xA;&lt;h3 id=&#34;features&#34;&gt;Features&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Waxed for easy gliding&lt;/li&gt;&#xA;&lt;li&gt;Mint flavor for fresh breath&lt;/li&gt;&#xA;&lt;li&gt;Strong and durable&lt;/li&gt;&#xA;&lt;li&gt;Compact travel-friendly container&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Toothbrush</title>
-      <link>https://facedents.com/products/toothbrush/</link>
+      <link>http://localhost:1313/products/toothbrush/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://facedents.com/products/toothbrush/</guid>
+      <guid>http://localhost:1313/products/toothbrush/</guid>
       <description>&lt;h2 id=&#34;face-dent-toothbrush&#34;&gt;Face Dent Toothbrush&lt;/h2&gt;&#xA;&lt;p&gt;Experience superior cleaning with our ergonomically designed toothbrush. Perfect for daily oral care.&lt;/p&gt;&#xA;&lt;h3 id=&#34;key-features&#34;&gt;Key Features&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Soft bristles for gentle cleaning&lt;/li&gt;&#xA;&lt;li&gt;Ergonomic non-slip handle&lt;/li&gt;&#xA;&lt;li&gt;Multi-action bristle arrangement&lt;/li&gt;&#xA;&lt;li&gt;Reaches back teeth easily&lt;/li&gt;&#xA;&lt;li&gt;BPA-free materials&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;bristle-types&#34;&gt;Bristle Types&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Outer bristles&lt;/strong&gt;: Longer for reaching between teeth&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Inner bristles&lt;/strong&gt;: Shorter for surface cleaning&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tip bristles&lt;/strong&gt;: For back teeth cleaning&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;usage-tips&#34;&gt;Usage Tips&lt;/h3&gt;&#xA;&lt;p&gt;Replace every 3 months or after illness. Rinse thoroughly after use. Store in upright position to dry.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Toothpaste</title>
-      <link>https://facedents.com/products/toothpaste/</link>
+      <link>http://localhost:1313/products/toothpaste/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://facedents.com/products/toothpaste/</guid>
-      <description>&lt;h2 id=&#34;face-dent-toothpaste&#34;&gt;Face Dent Toothpaste&lt;/h2&gt;&#xA;&lt;p&gt;Start your day with our fluoride toothpaste that provides complete protection against cavities, plaque, and bad breath.&lt;/p&gt;&#xA;&lt;h3 id=&#34;key-benefits&#34;&gt;Key Benefits&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Cavity protection&lt;/li&gt;&#xA;&lt;li&gt;Plaque prevention&lt;/li&gt;&#xA;&lt;li&gt;Fresh breath&lt;/li&gt;&#xA;&lt;li&gt;Enamel strengthening&lt;/li&gt;&#xA;&lt;li&gt;Gentle whitening&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;how-to-use&#34;&gt;How to Use&lt;/h3&gt;&#xA;&lt;p&gt;Brush twice daily for 2 minutes. Use pea-sized amount. Spit out, do not swallow. For best results, use with BavarKam toothbrush.&lt;/p&gt;&#xA;&lt;h3 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h3&gt;&#xA;&lt;p&gt;Sorbitol, Aqua, Hydrated Silica, Sodium Lauryl Sulfate, PEG-32, Sodium Fluoride, Xanthan Gum, Sodium Saccharin, Titanium Dioxide, Natural Mint Flavor&lt;/p&gt;</description>
+      <guid>http://localhost:1313/products/toothpaste/</guid>
+      <description>&lt;h2 id=&#34;face-dent-toothpaste&#34;&gt;Face Dent Toothpaste&lt;/h2&gt;&#xA;&lt;p&gt;Start your day with our fluoride toothpaste that provides complete protection against cavities, plaque, and bad breath.&lt;/p&gt;&#xA;&lt;h3 id=&#34;key-benefits&#34;&gt;Key Benefits&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Cavity protection&lt;/li&gt;&#xA;&lt;li&gt;Plaque prevention&lt;/li&gt;&#xA;&lt;li&gt;Fresh breath&lt;/li&gt;&#xA;&lt;li&gt;Enamel strengthening&lt;/li&gt;&#xA;&lt;li&gt;Gentle whitening&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;how-to-use&#34;&gt;How to Use&lt;/h3&gt;&#xA;&lt;p&gt;Brush twice daily for 2 minutes. Use pea-sized amount. Spit out, do not swallow. For best results, use with Face Dent toothbrush.&lt;/p&gt;&#xA;&lt;h3 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h3&gt;&#xA;&lt;p&gt;Sorbitol, Aqua, Hydrated Silica, Sodium Lauryl Sulfate, PEG-32, Sodium Fluoride, Xanthan Gum, Sodium Saccharin, Titanium Dioxide, Natural Mint Flavor&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

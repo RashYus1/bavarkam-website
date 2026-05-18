@@ -1,5 +1,5 @@
 baseURL = "https://facedents.com/"
-title = "BavarKam"
+title = "Face Dent"
 
 defaultContentLanguage = "en"
 publishDir = "public"

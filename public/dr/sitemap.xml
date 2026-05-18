@@ -2,262 +2,262 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://facedents.com/dr/products/</loc>
+    <loc>http://localhost:1313/dr/products/</loc>
     <lastmod>2026-03-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://facedents.com/products/"
+                href="http://localhost:1313/products/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ps"
-                href="https://facedents.com/ps/products/"
+                href="http://localhost:1313/ps/products/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://facedents.com/dr/products/"
+                href="http://localhost:1313/dr/products/"
                 />
   </url><url>
-    <loc>https://facedents.com/dr/about/</loc>
+    <loc>http://localhost:1313/dr/about/</loc>
     <lastmod>2026-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://facedents.com/about/"
+                href="http://localhost:1313/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ps"
-                href="https://facedents.com/ps/about/"
+                href="http://localhost:1313/ps/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://facedents.com/dr/about/"
+                href="http://localhost:1313/dr/about/"
                 />
   </url><url>
-    <loc>https://facedents.com/dr/</loc>
+    <loc>http://localhost:1313/dr/</loc>
     <lastmod>2026-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://facedents.com/"
+                href="http://localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ps"
-                href="https://facedents.com/ps/"
+                href="http://localhost:1313/ps/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://facedents.com/dr/"
+                href="http://localhost:1313/dr/"
                 />
   </url><url>
-    <loc>https://facedents.com/dr/categories/</loc>
+    <loc>http://localhost:1313/dr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://facedents.com/categories/"
+                href="http://localhost:1313/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ps"
-                href="https://facedents.com/ps/categories/"
+                href="http://localhost:1313/ps/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://facedents.com/dr/categories/"
+                href="http://localhost:1313/dr/categories/"
                 />
   </url><url>
-    <loc>https://facedents.com/dr/tags/</loc>
+    <loc>http://localhost:1313/dr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://facedents.com/tags/"
+                href="http://localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ps"
-                href="https://facedents.com/ps/tags/"
+                href="http://localhost:1313/ps/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://facedents.com/dr/tags/"
+                href="http://localhost:1313/dr/tags/"
                 />
   </url><url>
-    <loc>https://facedents.com/dr/products/bavar-cad-cam/</loc>
+    <loc>http://localhost:1313/dr/products/bavar-cad-cam/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://facedents.com/products/bavar-cad-cam/"
+                href="http://localhost:1313/products/bavar-cad-cam/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ps"
-                href="https://facedents.com/ps/products/bavar-cad-cam/"
+                href="http://localhost:1313/ps/products/bavar-cad-cam/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://facedents.com/dr/products/bavar-cad-cam/"
+                href="http://localhost:1313/dr/products/bavar-cad-cam/"
                 />
   </url><url>
-    <loc>https://facedents.com/dr/products/toothbrush/</loc>
+    <loc>http://localhost:1313/dr/products/toothbrush/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://facedents.com/products/toothbrush/"
+                href="http://localhost:1313/products/toothbrush/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ps"
-                href="https://facedents.com/ps/products/toothbrush/"
+                href="http://localhost:1313/ps/products/toothbrush/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://facedents.com/dr/products/toothbrush/"
+                href="http://localhost:1313/dr/products/toothbrush/"
                 />
   </url><url>
-    <loc>https://facedents.com/dr/contact/</loc>
+    <loc>http://localhost:1313/dr/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://facedents.com/contact/"
+                href="http://localhost:1313/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ps"
-                href="https://facedents.com/ps/contact/"
+                href="http://localhost:1313/ps/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://facedents.com/dr/contact/"
+                href="http://localhost:1313/dr/contact/"
                 />
   </url><url>
-    <loc>https://facedents.com/dr/products/mouth-wash/</loc>
+    <loc>http://localhost:1313/dr/products/mouth-wash/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://facedents.com/products/mouth-wash/"
+                href="http://localhost:1313/products/mouth-wash/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ps"
-                href="https://facedents.com/ps/products/mouth-wash/"
+                href="http://localhost:1313/ps/products/mouth-wash/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://facedents.com/dr/products/mouth-wash/"
+                href="http://localhost:1313/dr/products/mouth-wash/"
                 />
   </url><url>
-    <loc>https://facedents.com/dr/products/face-wash/</loc>
+    <loc>http://localhost:1313/dr/products/face-wash/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://facedents.com/products/face-wash/"
+                href="http://localhost:1313/products/face-wash/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ps"
-                href="https://facedents.com/ps/products/face-wash/"
+                href="http://localhost:1313/ps/products/face-wash/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://facedents.com/dr/products/face-wash/"
+                href="http://localhost:1313/dr/products/face-wash/"
                 />
   </url><url>
-    <loc>https://facedents.com/dr/products/hand-cream/</loc>
+    <loc>http://localhost:1313/dr/products/hand-cream/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://facedents.com/products/hand-cream/"
+                href="http://localhost:1313/products/hand-cream/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ps"
-                href="https://facedents.com/ps/products/hand-cream/"
+                href="http://localhost:1313/ps/products/hand-cream/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://facedents.com/dr/products/hand-cream/"
+                href="http://localhost:1313/dr/products/hand-cream/"
                 />
   </url><url>
-    <loc>https://facedents.com/dr/products/toothpaste/</loc>
+    <loc>http://localhost:1313/dr/products/toothpaste/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://facedents.com/products/toothpaste/"
+                href="http://localhost:1313/products/toothpaste/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ps"
-                href="https://facedents.com/ps/products/toothpaste/"
+                href="http://localhost:1313/ps/products/toothpaste/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://facedents.com/dr/products/toothpaste/"
+                href="http://localhost:1313/dr/products/toothpaste/"
                 />
   </url><url>
-    <loc>https://facedents.com/dr/products/kids-toothpaste-toothbrush/</loc>
+    <loc>http://localhost:1313/dr/products/kids-toothpaste-toothbrush/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://facedents.com/products/kids-toothpaste-toothbrush/"
+                href="http://localhost:1313/products/kids-toothpaste-toothbrush/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ps"
-                href="https://facedents.com/ps/products/kids-toothpaste-toothbrush/"
+                href="http://localhost:1313/ps/products/kids-toothpaste-toothbrush/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://facedents.com/dr/products/kids-toothpaste-toothbrush/"
+                href="http://localhost:1313/dr/products/kids-toothpaste-toothbrush/"
                 />
   </url><url>
-    <loc>https://facedents.com/dr/products/face-cream/</loc>
+    <loc>http://localhost:1313/dr/products/face-cream/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://facedents.com/products/face-cream/"
+                href="http://localhost:1313/products/face-cream/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ps"
-                href="https://facedents.com/ps/products/face-cream/"
+                href="http://localhost:1313/ps/products/face-cream/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://facedents.com/dr/products/face-cream/"
+                href="http://localhost:1313/dr/products/face-cream/"
                 />
   </url><url>
-    <loc>https://facedents.com/dr/products/tooth-floss/</loc>
+    <loc>http://localhost:1313/dr/products/tooth-floss/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://facedents.com/products/tooth-floss/"
+                href="http://localhost:1313/products/tooth-floss/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ps"
-                href="https://facedents.com/ps/products/tooth-floss/"
+                href="http://localhost:1313/ps/products/tooth-floss/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://facedents.com/dr/products/tooth-floss/"
+                href="http://localhost:1313/dr/products/tooth-floss/"
                 />
   </url>
 </urlset>

@@ -23,7 +23,7 @@ Start your day with our fluoride toothpaste that provides complete protection ag
 
 ### How to Use
 
-Brush twice daily for 2 minutes. Use pea-sized amount. Spit out, do not swallow. For best results, use with BavarKam toothbrush.
+Brush twice daily for 2 minutes. Use pea-sized amount. Spit out, do not swallow. For best results, use with Face Dent toothbrush.
 
 ### Ingredients
 

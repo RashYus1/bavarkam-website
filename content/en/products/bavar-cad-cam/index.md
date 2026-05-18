@@ -1,6 +1,6 @@
 ---
 title: "Bavar CAD/CAM Lab"
-description: "Advanced CAD/CAM Lab dental technology by BavarKam"
+description: "Advanced CAD/CAM Lab dental technology by Face Dent"
 image: "/images/products/cad-cam-7.png"
 video: "/videos/cad-cam.mp4"
 images:
@@ -20,7 +20,7 @@ images:
 
 ## Bavar CAD/CAM Lab
 
-BavarKam CAD/CAM Lab is a modern digital dental solution designed for precision, durability, and advanced laboratory performance.
+Face Dent CAD/CAM Lab is a modern digital dental solution designed for precision, durability, and advanced laboratory performance.
 
 ### Features
 
@@ -36,4 +36,4 @@ BavarKam CAD/CAM Lab is a modern digital dental solution designed for precision,
 - Veneers
 - Digital prosthetics
 
-BavarKam delivers premium quality made in Afghanistan.
+Face Dent delivers premium quality made in Afghanistan.
